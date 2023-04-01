@@ -3,9 +3,9 @@
   "name": "Phish Detector",
   "version": "1",
   "icons": { 
-        "16": "detective.png",
-        "48": "detective.png",
-        "128": "detective.png" 
+        "16": "fsh.jpeg",
+        "48": "fsh.jpeg",
+        "128": "fsh.jpeg" 
    },
   "background": {
         "scripts": ["background.js"]
